@@ -163,7 +163,7 @@
                         <div class="first-row-left">
                             <div class="logo-wrapper">
                                 <div class="logo-tagline">
-                                    <a href="https://zgffreightservices.com" title=" Logistics" class="logo "
+                                    <a href="https://expediteshipworldwide.com" title=" Logistics" class="logo "
                                         style="min-width:56.5px">
                                         <img width="100" src="{{ asset('logon.png') }}" class="logo">
                                     </a>
@@ -219,10 +219,10 @@
                                             data-hover-intent-timeout="300" data-hover-intent-interval="100">
                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-987677'
                                                 id='mega-menu-item-987677'><a class="mega-menu-link"
-                                                    href="https://zgffreightservices.com/company/" tabindex="0">About</a></li>
+                                                    href="https://expediteshipworldwide.com/company/" tabindex="0">About</a></li>
                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-987674'
                                                 id='mega-menu-item-987674'><a class="mega-menu-link"
-                                                    href="https://zgffreightservices.com/contact/" tabindex="0">Contacts</a></li>
+                                                    href="https://expediteshipworldwide.com/contact/" tabindex="0">Contacts</a></li>
                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-15186 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-987678'
                                                 id='mega-menu-item-987678'><a class="mega-menu-link"
                                                     href="#" tabindex="0">Track</a></li>
@@ -394,7 +394,7 @@
                                                                 <div class="fl-photo fl-photo-align-left" itemscope
                                                                     itemtype="http://schema.org/ImageObject">
                                                                     <div class="fl-photo-content fl-photo-img-jpeg">
-                                                                        <a href="https://zgffreightservices.com/"
+                                                                        <a href="https://expediteshipworldwide.com/"
                                                                             target="_self" itemprop="url"
                                                                             title="ZGF logistics 02">
                                                                             <img loading="lazy"
