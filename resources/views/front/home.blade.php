@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Track &#8211; ZGF Freight Services</title>
+    <title>Track &#8211; {{ config('app.name')}}</title>
     {{-- <link rel="stylesheet" href="styling.css"/> --}}
     <link rel="stylesheet" type="text/css" href="{{ asset('stake/styling.css') }}">
 

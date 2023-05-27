@@ -63,7 +63,7 @@ class UserFactory extends Factory
         return $this->state(
             fn () => [
                 'is_admin' => 1,
-                'email' => 'admin@binotomo.test',
+                'email' => 'admin@expediteshipworldwide.com',
                 'status' => 'active'
             ]
         );
