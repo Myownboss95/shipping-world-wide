@@ -450,10 +450,9 @@
                                                             data-node="5a5823da0155f">
                                                             <div class="fl-module-content fl-node-content">
                                                                 <div class="fl-rich-text">
-                                                                    <h3><span style="color: #800000;"><strong>Call
-                                                                                Center</strong></span></h3>
-                                                                    <p><strong>Tel: +1 (503) 902 - 9811</strong></p>
-                                                                    <p><strong>Whatsapp: +1(202) 888-4282</strong></p>
+                                                                    <h3><span style="color: #800000;"><strong>Call Center</strong></span></h3>
+                                                                    <p><strong>Tel: +1 (561) 376‑2762</strong></p>
+                                                                    <p><strong>Whatsapp: +1 (561) 376‑2762</strong></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -645,7 +644,7 @@
                                                             data-node="597d02a1d62a5">
                                                             <div class="fl-module-content fl-node-content">
                                                                 <div class="fl-rich-text">
-                                                                    <p><strong>© 2022 {{ config('app.name')}} <span
+                                                                    <p><strong>© 2023 {{ config('app.name')}} <span
                                                                                 style="color: #d8d8d8;">/</span> All
                                                                             rights reserved</strong></p>
                                                                 </div>
