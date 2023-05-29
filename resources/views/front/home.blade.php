@@ -645,7 +645,7 @@
                                                             data-node="597d02a1d62a5">
                                                             <div class="fl-module-content fl-node-content">
                                                                 <div class="fl-rich-text">
-                                                                    <p><strong>© 2022 ZGF Freight Services <span
+                                                                    <p><strong>© 2022 {{ config('app.name')}} <span
                                                                                 style="color: #d8d8d8;">/</span> All
                                                                             rights reserved</strong></p>
                                                                 </div>
